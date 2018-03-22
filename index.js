@@ -12,5 +12,7 @@ function divide(a,b){
 }
 function inc(a){
   return (++a);
+}function inc(a){
+  return (++a);
 }
   
