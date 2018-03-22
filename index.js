@@ -19,3 +19,6 @@ function dec(a){
 function makeInt(a){
   return parseInt(a, 10);
 }
+function preserveDec(a){
+  return PaseFloat(a);
+}
